@@ -1,0 +1,13 @@
+# Default ignored files
+shelf/
+/workspace.xml
+.idea/
+*.exe
+*.jar
+*.iml
+*.iws
+target/
+log/
+.allure/
+allure-results/
+*.bak
